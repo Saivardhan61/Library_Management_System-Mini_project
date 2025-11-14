@@ -1,0 +1,9 @@
+101,Data Science,saivardhan,5,5
+102,Computer Networks,Swarna,10,9
+103,Machine learning,Vamshi Krishna,12,12
+104,Java,Ramesh,15,14
+1007,javaFundamentals,Ramesh,30,30
+2,inner eng,isha,30,30
+105,Computer Graphics,Santhoshini,10,10
+106,Python,Nikunj,12,12
+107,.net,Saikiran,10,10

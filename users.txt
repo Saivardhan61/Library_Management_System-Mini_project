@@ -1,0 +1,6 @@
+STUDENT,admin,admin
+ADMIN,admin,admin
+STUDENT,student,1234
+STUDENT,sai,sai
+STUDENT,madhan,madhan
+STUDENT,ram,ram
